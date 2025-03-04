@@ -1,6 +1,6 @@
 # ふれふれまとい
 
-![ふれふれまといパッケージ](https://github.com/user-attachments/assets/f81d547d-189b-4a19-8322-962cb0fc5888)
+![ふれふれまといパッケージ](https://github.com/user-attachments/assets/c158ac7e-2b9e-4bc9-a885-09564cb61e9a)
 
 <br>
 
