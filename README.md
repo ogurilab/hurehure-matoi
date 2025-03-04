@@ -24,7 +24,7 @@
 1. リポジトリをクローン
 
 ```sh
-   git clone git@github.com:hurehure-matoi/hurehure-matoi.git
+   git clone git@github.com:ogurilab/hurehure-matoi.git
 ```
 
 2. Unity でプロジェクトを開く
